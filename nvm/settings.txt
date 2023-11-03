@@ -1,2 +1,0 @@
-root: C:\Users\The Word\Downloads\nft_marketplace-main\nft_marketplace\nvm
-path: C:\Program Files\nodejs
